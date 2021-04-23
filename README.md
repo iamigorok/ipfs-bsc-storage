@@ -7,9 +7,12 @@ Smart Chain Testnet blockchain.
 ### Web Application
 Application can be found on: **https://ipfs-bsc-storage.herokuapp.com/**
 
+### Web Application Repository
+Application repository can be found on: **https://github.com/Egesabanci/ipfs-bsc-storage-app**
+
 ### Before starting to use
 You have to connect to the account which is recognizable from Binance
 Smart Chain Tesnet blockchain. You can connect to the Testnet blockchain
 with `MetaMask`.
 
-(download MetaMask: https://metamask.io/download)
+(download MetaMask: **https://metamask.io/download**)

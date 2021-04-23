@@ -5,9 +5,11 @@ on IPFS P2P network system and keeps this data's information on Binance
 Smart Chain Testnet blockchain. 
 
 ### Web Application
-Application can be found on: `https://ipfs-bsc-storage.herokuapp.com/`
+Application can be found on: **https://ipfs-bsc-storage.herokuapp.com/**
 
 ### Before starting to use
 You have to connect to the account which is recognizable from Binance
 Smart Chain Tesnet blockchain. You can connect to the Testnet blockchain
-with `MetaMask` (download MetaMask: https://metamask.io/download)
+with `MetaMask`.
+
+(download MetaMask: https://metamask.io/download)

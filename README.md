@@ -16,3 +16,6 @@ Smart Chain Tesnet blockchain. You can connect to the Testnet blockchain
 with `MetaMask`.
 
 (download MetaMask: **https://metamask.io/download**)
+
+### Application Overview
+![Application Overview](https://raw.githubusercontent.com/Egesabanci/ipfs-bsc-storage/master/web-screenshot.jpg)
